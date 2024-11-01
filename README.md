@@ -1,3 +1,6 @@
+## Video Kayıt: 
+![Screen Recording 2024-11-01 at 09 44 17 61 PM](https://github.com/user-attachments/assets/72068f86-f5ab-45ab-9d34-62ff0499436c)
+
 ## Image
 
 - Nextjs'de opitmize edilmiş görntü yönetimi için kullanılan bir bileşendir.
